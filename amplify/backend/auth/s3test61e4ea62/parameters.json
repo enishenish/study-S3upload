@@ -1,6 +1,6 @@
 {
     "identityPoolName": "s3test61e4ea62_identitypool_61e4ea62",
-    "allowUnauthenticatedIdentities": false,
+    "allowUnauthenticatedIdentities": true,
     "resourceNameTruncated": "s3test61e4ea62",
     "userPoolName": "s3test61e4ea62_userpool_61e4ea62",
     "autoVerifiedAttributes": [
